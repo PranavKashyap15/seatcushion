@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376109847141",
+    "project_id": "bfdbf-f9932",
+    "storage_bucket": "bfdbf-f9932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376109847141:android:a394085dab75fe86d16c8c",
+        "android_client_info": {
+          "package_name": "com.example.cushion_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8m7bHa86TbRZqD2LQtFrO_d3_Xylb7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
